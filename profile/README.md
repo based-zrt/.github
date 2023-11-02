@@ -17,4 +17,6 @@ Itt készül néhány team project a haverokkal
 :construction:
 
 ## Szoftverfejlesztési módszertanok
-:construction:
+ - URL: https://unideb.tech/
+ - [frontend](https://github.com/based-zrt/unitech-frontend)
+ - [backend](https://github.com/based-zrt/unitech-backend)
