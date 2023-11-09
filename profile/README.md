@@ -11,7 +11,8 @@ Itt készül néhány team project a haverokkal
  - [backend](https://github.com/based-zrt/rps-backend)
 
 ### 2. beadandó
-:construction: készül...
+ - URL: https://dev.sunstorm.rocks/
+ - [repo](https://github.com/based-zrt/webdev-php)
 
 ## Szövegfeldolgozás
 :construction:
