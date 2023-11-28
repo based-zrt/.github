@@ -1,7 +1,5 @@
 Itt készül néhány team project a haverokkal
 
-# Projektek
-
 ## Webfejlesztés
 
 ### 1. beadandó
