@@ -14,9 +14,6 @@ Itt készül néhány team project a haverokkal
  - URL: https://dev.sunstorm.rocks/
  - [repo](https://github.com/based-zrt/webdev-php)
 
-## Szövegfeldolgozás
-:construction:
-
 ## Szoftverfejlesztési módszertanok
  - URL: https://unideb.tech/
  - [frontend](https://github.com/based-zrt/unitech-frontend)
